@@ -1,0 +1,13 @@
+{
+  "/_app": "pages/_app.js",
+  "/api/validate-captcha": "pages/api/validate-captcha.js",
+  "/find-candy-machine-configs": "pages/find-candy-machine-configs.html",
+  "/hash-table": "pages/hash-table.html",
+  "/holder-list": "pages/holder-list.html",
+  "/": "pages/index.html",
+  "/my-nfts": "pages/my-nfts.html",
+  "/roadmap": "pages/roadmap.html",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
